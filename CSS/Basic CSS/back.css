@@ -1,0 +1,24 @@
+
+        h1{
+			color: purple ;
+			background: rgba(9,11,1,2);
+			border: 1.5px dashed purple;
+		}
+		li{
+			color: rgb(550,500,300);
+		}
+		h3 {
+			color: #C412D5;
+			/* border-color: purple;
+			border-width: 5px;
+			border-style: solid; */
+		    border: 3px solid purple;
+} 
+			 
+
+		body{
+			background: url(https://image.shutterstock.com/image-photo/cute-beagle-puppy-3-months-260nw-80773990.jpg);
+     		background-repeat: no-repeat;
+     		background-size: cover;		
+
+		}

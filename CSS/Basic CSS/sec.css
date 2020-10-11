@@ -1,0 +1,16 @@
+body{
+	font-family: Tahoma,Arial;
+	font-size: 13px;
+	color: black;
+	background-color: white;
+	margin: 8px;
+}
+h1{
+ font-size: 19px;
+ margin-top: 2px;
+ margin-bottom: 10px;
+ border-bottom: 1px solid black
+}
+.shaded{
+	background-color: pink;
+}

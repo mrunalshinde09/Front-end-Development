@@ -1,0 +1,24 @@
+/*               selector {
+	                  property : value;
+		                  }
+
+		 i) color picker for different colors in hexadecimal
+		 ii) use values 
+		 iii) names directly       */
+
+		h1{
+			color: purple ;
+			background: rgba(9,11,1,2);
+		}
+		li{
+			color: rgb(550,500,300);
+		}
+		h4 {
+			color: #C412D5; }
+		h3{
+			color: rgba(11,99,150,1); 
+			/* a = alpha */
+		}
+		body{
+			background: rgba(11,99,150,.3);
+		}

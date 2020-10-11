@@ -1,0 +1,34 @@
+/* element */
+body{
+	background: lightblue;
+}
+/* id */
+#special{
+	background-color: blue;
+}
+/* class */
+.cool{
+	background-color: lightcyan;
+}
+/* Star */
+*{
+	border: 2px solid gray;
+}
+/* Descedant Selector */
+li a{
+	color: red;
+}
+/* Adjacent Selector */
+h2 + ul{
+	border: 5px solid crimson;
+}
+/* Attribute Selector */
+a[href="https://en.wikipedia.org/wiki/Goa"]{
+	background-color: darkcyan;
+}
+/* nth type selector */
+li:nth-of-type(2){
+	font-style: italic;
+	font-size: larger;
+}
+/* we can also do odd/even nth */
